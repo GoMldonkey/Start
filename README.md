@@ -6,5 +6,3 @@ Run as:
 ruby 3.3.7 (2025-01-15 revision be31f993d7) [x86_64-linux]
 Rails 8.0.2
 2026/7/19
-test1
-test1
